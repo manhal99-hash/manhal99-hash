@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manhal99-hash
 - 👀 I’m interested in Software Engineering & AI 
-- 🌱 I’m currently learning C# Language & Algorithms & DS
+- 🌱 I’m currently learning C# Language & Algorithms & DS at BBS Betzdorf for Computer Science
 - 📫 Germany
 
 <!---
