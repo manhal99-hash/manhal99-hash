@@ -1,12 +1,12 @@
-Hi 👋 My name is Manhall Abdulhai
+Hi 👋 My name is Manhal
 =================================
 
-Computer-Science Student
+Cyber Security Student
 ------------------------
 
-I am at BBS Betzdorf/Kirchen School, I started with HTML & CSS, at the school I have been learning C#, SQL, Network & Cyber Security
+I'am studying Cyber Security & Privacy at Hochschule Bonn-Rhein-Sieg in Sankt Augustin
 
-*   🌍  I'm based in Germany, RLP
+*   🌍  I'm based in Germany, NRW, Bonn
 *   ✉️  You can contact me at [manhalhai99@gmail.com](mailto:manhalhai99@gmail.com)
 *   🧠  I'm learning Problem Solving### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
